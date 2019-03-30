@@ -14,6 +14,8 @@ Baixe o código para sua máquina.
 Entre na pasta com seu terminal.
 Digite o comando a seguir:
 
-*pipenv install*
-*pipenv shell*
-*python3 app.py*
+~~~
+pipenv install
+pipenv shell
+python3 app.py
+~~~
